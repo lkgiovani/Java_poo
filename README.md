@@ -10,14 +10,14 @@
     com o DUMP entre em algum cliente SQL (no meu caso uso o HeidiSQL)
   </p> 
   <hr/>
-  Abra a opção de executar o DUMP
+  <p>Abra a opção de executar o DUMP</p>
   <img src="img/1.png" alt="" style="width: 800px;">
   <hr/>
-  Execute: <br/>
+  <p>Execute:</p>
   <img src="img/2.png" alt="" style="width: 800px;">
   <hr/>
-  Depois disso e só visualizar se deu certo 
-  
+  <p>Depois disso e só visualizar se deu certo 
+</p>  
   <img src="img/3.png" alt="" style="width: 800px;">
   
   <hr>
@@ -28,9 +28,11 @@
   <p>Primeiro baixar o <a href="https://dev.mysql.com/downloads/connector/j/">O drive JDPC</a></p>
   <img src="img/4.png" alt="">
   <hr>
-  <p> Apos isso abra o Eclipse </p>
-  <p>e abra um projeto</p>
+  <p>Apos isso abra o Eclipse; </p>
+  <p>E abra um projeto: </p>
   <img src="img/5.png" alt="">
   <img src="img/6.png" alt="">
   <img src="img/7.png" alt="">
+
+  <h2>Apos isso so joga os arquivos q estão no SRC dos aquivos que foram baixados do git para dentro do SRC do projeto</h2>
   
